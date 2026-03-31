@@ -5,6 +5,9 @@ End-to-end data analysis project exploring Malaysia's unemployment trends, emplo
 ## About the Project
 
 This project analyses 32 years of employment and GDP data for Malaysia using a public Kaggle dataset. I built a clean, reproducible data pipeline and performed both exploratory data analysis and economic analysis.
+Dataset
+Kaggle – Global Jobs, GDP and Unemployment Data (1991–2022)
+https://www.kaggle.com/datasets/akshatsharma2/global-jobs-gdp-and-unemployment-data-19912022
 
 I analysed the data in two ways:
 - Full period: 1991–2022 (32 years)
